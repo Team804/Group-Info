@@ -1,0 +1,15 @@
+User Stories:
+  I am Department Chair/Secretary 
+    I want to enter TA PantherID and name when I hire them.
+      So that the system knows they are employed?
+    I can assign TAs to specific lab sections
+      So that they work?
+    I want to be able to remind TAs to enter their semester information
+      So that I have updated information when scheduling.
+  I am TA
+    I need to register my information
+      So the University knows of my employment as a TA
+    I can update my information each semester
+      So the system does not create schedule conflicts between work and class
+    I can access my teaching schedule
+      So I know when to teach
