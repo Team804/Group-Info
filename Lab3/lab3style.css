@@ -1,1 +1,81 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: Helvetica, Arial, sans-serif;
+	min-width: 800px;
+}
+.container {
+	margin: 0;
+}
 
+.pagetitle {
+	width: 100%;
+	background-color: black;
+	background-size: cover;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	color: #fff;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin: 0px;
+	overflow: hidden;
+}
+
+.pagetitle h1 {
+	display: inline-block;
+	
+}
+
+.pagetitle img {
+	position: relative;
+	display: inline-block;
+	float: right;
+
+	margin-top: -60px;
+	margin-bottom: -60px;
+}
+
+.SectionTitle .container {
+	background-color: #FFBD00;
+	background-size: cover;
+	margin: 0;
+	padding-left: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.SectionTitle  h2{
+	margin: 0;
+	/*padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;*/
+}
+
+.MainLinks a {
+	text-decoration: none;
+	color: #000;
+}
+
+.MainLinks a:hover {
+	text-decoration: underline;
+}
+
+.MainLinks ul{
+	margin-bottom: -10px;
+}
+
+.MainLinks li {
+	list-style: none;
+	position: relative;
+	left: -16px;
+	line-height: 1.5;
+}
+
+div {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin: 0 auto;
+}
