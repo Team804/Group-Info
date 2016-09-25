@@ -73,6 +73,20 @@ html, body {
 	line-height: 1.5;
 }
 
+#AdminLinks {
+	margin-bottom: 500px;
+}
+
+#copyright {
+	float: left;
+	margin-left: 10px;
+}
+
+#group {
+	float: right;
+	margin-right: 10px;
+}
+
 div {
 	position: relative;
 	top: 0px;
